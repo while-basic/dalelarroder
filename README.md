@@ -13,7 +13,7 @@
 1. Clone this repo
 
 ```bash
-git clone git@github.com:dlarroder/dalelarroder.git
+git clone https://github.com/dlarroder/dalelarroder.git
 ```
 
 2. Change directory
@@ -22,7 +22,7 @@ git clone git@github.com:dlarroder/dalelarroder.git
 cd dalelarroder
 ```
 
-3. Install yarn packages
+3. Install yarn packages (Node v18 required)
 
 ```bash
 yarn
